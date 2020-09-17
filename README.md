@@ -5,4 +5,4 @@
 3. deploy portainer
   - `curl -L https://downloads.portainer.io/portainer-agent-stack.yml -o portainer-agent-stack.yml && docker stack deploy --compose-file=portainer-agent-stack.yml portainer`
 4. click port 9000 to view
-![port9k](./Capture.)
+![port9k](./Capture.PNG)
