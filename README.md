@@ -9,4 +9,6 @@
 5. create a password
 ![pass](./Capture2.PNG)
 6. view the visualizer
-![viz](./Capture3.PNG)
+![viz1](./Capture4.PNG)
+![viz2](./Capture5.PNG)
+![viz3](./Capture6.PNG)
