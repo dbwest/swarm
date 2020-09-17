@@ -12,6 +12,4 @@
 ![viz1](./Capture4.PNG)
 ![viz2](./Capture5.PNG)
 ![viz3](./Capture6.PNG)
-7. deploy a stack to your cluster (eg Zalenium)
-  - `docker pull dosel/zalenium && docker pull elgalu/selenium` on all swarm nodes
-  - `wget https://bit.ly/2FNhBJY -O docker-compose.yml && docker stack deploy -c ./docker-compose.yml zaleniumstack`
+7. you now have a Docker Swarm cluster.
